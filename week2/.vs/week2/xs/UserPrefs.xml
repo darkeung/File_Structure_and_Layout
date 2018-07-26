@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5952CFFD-4345-4959-AA30-EA9637102CF1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="week2/MainActivity.cs" Line="16" Column="11" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.3.3-2/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1355" Column="3" />
+      <File FileName="week2/PracticalData.cs" Line="23" Column="6" />
+      <File FileName="week2/StudentsListActivity.cs" Line="45" Column="10" />
+      <File FileName="week2/Details.cs" Line="16" Column="16" />
+      <File FileName="week2/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="week2/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.week2 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
